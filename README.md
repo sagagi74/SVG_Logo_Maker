@@ -3,6 +3,15 @@ SVG_Logo_Maker
 
 This Application demonstrates to develop a Node.js command-line application that captures user input to create a logo and save it as an SVG file. The application should prompt the user to choose a color and shape, input text for the logo, and save the generated SVG to a .svg file.
 
+Github link
+
+https://github.com/sagagi74/SVG_Logo_Maker
+
+Youtube link
+
+https://youtu.be/9SH6C8CF1Ts
+
+
 
 1 Start the Application: Run the command-line application.
 
